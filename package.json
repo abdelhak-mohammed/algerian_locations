@@ -1,0 +1,27 @@
+{
+  "name": "algeria-locations",
+  "type": "module",
+  "author": "Mohammed Abdelhak m.abdelhak.dev@gmail.com",
+  "version": "1.0.1",
+  "description": "🇩🇿 A complete list of Algerian wilayas, dairas, and communes with helper functions.",
+  "keywords": [
+    "algeria",
+    "wilaya",
+    "commune",
+    "daira",
+    "locations",
+    "geo"
+  ],
+  "main": "./dist/index.js",
+  "exports": {
+    ".": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "vite build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^7.1.12"
+  }
+}
