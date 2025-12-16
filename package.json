@@ -2,7 +2,7 @@
   "name": "algeria-locations",
   "type": "module",
   "author": "Mohammed Abdelhak m.abdelhak.dev@gmail.com",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "🇩🇿 A complete list of Algerian wilayas, dairas, and communes with helper functions.",
   "files": [
     "dist",
